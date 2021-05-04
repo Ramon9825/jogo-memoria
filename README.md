@@ -5,9 +5,9 @@ Nesse projeto aprendi novos conceitos de css, como:
 * backface-visibility: hidden - oculta a face de elementos
 
 Em html:
-*data - customização de atributos (para definir a igualdade de cartas)
+* data - customização de atributos (para definir a igualdade de cartas)
 
 Em javascript:
-*aprendi bastante lógica
-*removeEventListener - remove um evento
-*dataset - permite acesso a atributos customizados no html
+* aprendi bastante lógica
+* removeEventListener - remove um evento
+* dataset - permite acesso a atributos customizados no html
